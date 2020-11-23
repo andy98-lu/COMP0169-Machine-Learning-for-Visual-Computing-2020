@@ -30,3 +30,5 @@ Creative industries such as print, feature films, music, fabrication or interact
 |Week 1| Introduction to Python, Numpy and Pytorch, K-Nearest Neighbour Classifier|
 |Week 2| Optimization, First order and Second order methods|
 |Week 3| Linear and Non-linear Classification, SVM|
+|Week 5| Neural Networks|
+|Week 6| Gaussian, Laplacian filtering|
