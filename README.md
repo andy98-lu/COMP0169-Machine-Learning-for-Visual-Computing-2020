@@ -32,3 +32,5 @@ Creative industries such as print, feature films, music, fabrication or interact
 |Week 3| Linear and Non-linear Classification, SVM|
 |Week 5| Neural Networks|
 |Week 6| Gaussian, Laplacian filtering|
+|Week 7| Introduction to Pytorch and CNNs|
+|Week 8| CNNs filters and features|
